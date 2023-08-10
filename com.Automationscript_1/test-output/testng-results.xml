@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-21T12:52:39 IST" name="Default suite" finished-at="2023-06-21T12:52:39 IST" duration-ms="41">
+    <groups>
+    </groups>
+    <test started-at="2023-06-21T12:52:39 IST" name="Default test" finished-at="2023-06-21T12:52:39 IST" duration-ms="41">
+      <class name="TestNGannotations.TestNGAnnotations">
+        <test-method is-config="true" signature="suiteopen()[pri:0, instance:TestNGannotations.TestNGAnnotations@1ea9f6af]" started-at="2023-06-21T12:52:39 IST" name="suiteopen" finished-at="2023-06-21T12:52:39 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteopen -->
+        <test-method is-config="true" signature="testopen()[pri:0, instance:TestNGannotations.TestNGAnnotations@1ea9f6af]" started-at="2023-06-21T12:52:39 IST" name="testopen" finished-at="2023-06-21T12:52:39 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testopen -->
+        <test-method is-config="true" signature="classopen()[pri:0, instance:TestNGannotations.TestNGAnnotations@1ea9f6af]" started-at="2023-06-21T12:52:39 IST" name="classopen" finished-at="2023-06-21T12:52:39 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classopen -->
+        <test-method is-config="true" signature="methodopen()[pri:0, instance:TestNGannotations.TestNGAnnotations@1ea9f6af]" started-at="2023-06-21T12:52:39 IST" name="methodopen" finished-at="2023-06-21T12:52:39 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodopen -->
+        <test-method signature="login()[pri:0, instance:TestNGannotations.TestNGAnnotations@1ea9f6af]" started-at="2023-06-21T12:52:39 IST" name="login" description="This a login method execution" finished-at="2023-06-21T12:52:39 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="methodclose()[pri:0, instance:TestNGannotations.TestNGAnnotations@1ea9f6af]" started-at="2023-06-21T12:52:39 IST" name="methodclose" finished-at="2023-06-21T12:52:39 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodclose -->
+        <test-method is-config="true" signature="classclose()[pri:0, instance:TestNGannotations.TestNGAnnotations@1ea9f6af]" started-at="2023-06-21T12:52:39 IST" name="classclose" finished-at="2023-06-21T12:52:39 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classclose -->
+        <test-method is-config="true" signature="testclose()[pri:0, instance:TestNGannotations.TestNGAnnotations@1ea9f6af]" started-at="2023-06-21T12:52:39 IST" name="testclose" finished-at="2023-06-21T12:52:39 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testclose -->
+        <test-method is-config="true" signature="suiteclose()[pri:0, instance:TestNGannotations.TestNGAnnotations@1ea9f6af]" started-at="2023-06-21T12:52:39 IST" name="suiteclose" finished-at="2023-06-21T12:52:39 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteclose -->
+      </class> <!-- TestNGannotations.TestNGAnnotations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

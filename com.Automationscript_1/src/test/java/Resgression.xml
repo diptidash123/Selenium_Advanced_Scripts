@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="TESTNG_framework.Regression_suite"/>
+      <class name="TESTNG_framework.Regression_suite"/>
+      <class name="TESTNG_framework.Regression_suite"/>
+      <class name="TESTNG_framework.Regression_suite"/>
+      <class name="TESTNG_framework.Regression_suite"/>
+      <class name="TESTNG_framework.Regression_suite"/>
+      <class name="TESTNG_framework.Regression_suite"/>
+      <class name="TESTNG_framework.Regression_suite"/>
+      <class name="TESTNG_framework.Regression_suite"/>
+      <class name="TESTNG_framework.Regression_suite"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
